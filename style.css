@@ -1,0 +1,89 @@
+
+		*{
+			padding: 0px;
+			margin: 0px;
+		}
+		.width-100{
+			width: 100%;
+			float: left;
+
+		}
+		.container{
+			width: 1500px;
+			margin: 0px auto;
+		}
+		.top-header{
+			background: ;
+			padding: 5px 0px;
+			border-bottom: 1px solid #3131315e;
+		}
+		.news-list{
+			font-size: 20px;
+			padding: 3px;
+			color: white;
+			backgroung: ;
+
+		}
+
+		NAV{
+		margin: 0;
+	background-color: ;
+	background-image: url('nn-img');
+}
+header{
+	background-color: white;
+	padding: 0px;
+	color: blue;
+	text-align: center;
+	font-family: sans-serif;
+} 
+nav{
+	overflow: hidden;
+	background-color: ;
+
+}
+nav a{
+	float: left;
+	color: whitesmoke;
+	padding: 20px;
+	text-decoration: none;
+}
+nav a:hover{
+	background-color: black; 
+	color: white;
+}
+
+
+
+	p{
+		text-align: justify;
+	}
+	ul{
+		width: 20%;
+	}
+	.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.socials li{
+    margin: 0 10px;
+}
+.socials a{
+    text-decoration: none;
+    color: #fff;
+    border: 1.1px solid white;
+    padding: 5px;
+    border-radius: 50%;
+}
+.socials a i{
+    font-size: 1.1rem;
+    width: 20px;
+    transition: color .4s ease;
+}
+.socials a:hover i{
+    color: aqua;
+}
+ 
